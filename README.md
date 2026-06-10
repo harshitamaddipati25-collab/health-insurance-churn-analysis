@@ -5,7 +5,7 @@
 ## 📊 Live Dashboard
 [View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/4d45924d-e5bd-4310-b0d7-abe43ba34282)
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard.jpg)
 
 ## 🔍 The Problem
 Mid-year health insurance churn costs insurers billions in lost premium revenue annually. This project identifies **which states are most at risk, why, and when** insurers should intervene.
